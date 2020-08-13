@@ -1,0 +1,10 @@
+name: Spigot
+version: 1.0-SNAPSHOT
+main: com.kyleevangelisto.firstplugin.spigot.Spigot
+api-version: 1.13
+authors: [KyleEvangelisto]
+description: First Solo Plugin
+
+commands:
+  Hello:
+
